@@ -1,4 +1,4 @@
-from NamasteiG import *
+from NamasteiG import Instagram
 UserName=""
 PassWord=""
 Data=Instagram.Login(UserName,PassWord)['Response'].text #PRINT DATA IN TEXT
