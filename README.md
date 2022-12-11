@@ -1,5 +1,8 @@
 # InstaGram-Login-API
-Best Private Api For Login Instagram Account Using Python #InstagramAPI #InstagramLogin #InstagramModule
+Best Private Api For Login Instagram Account Using Python #InstagramAPI #InstagramLogin #InstagramModule #MobileApi #InstagramBot
+
+Based On Instagram Android API
+Version 262.0.0.24.327
 
 Install This Module
 pip install NamasteiG
@@ -15,3 +18,7 @@ print(Data)
 
 Data=Instagram.Login(UserName,PassWord) #PRINT ALL DATA
 print(Data)
+
+
+
+More Features Comming Soon-->
