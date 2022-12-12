@@ -4,7 +4,7 @@ Based On Instagram Android API
 Version 262.0.0.24.327
 
 Install This Module
-pip install NamasteiG
+pip install NamasteiG==0.0.2
 
 from NamasteiG import Instagram
 UserName=""
